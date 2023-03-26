@@ -1,0 +1,18 @@
+.hot-pink {
+    background-color: hotpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#large {
+    color: blue;
+    font-size: 36px;
+}
+
+.set-font {
+    font-size: 24px;
+}
+
+#custom-back {
+    background-color: lightgreen;
+    font-weight: bold;
+}
